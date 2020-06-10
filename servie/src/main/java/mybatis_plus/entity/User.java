@@ -1,4 +1,4 @@
-package com.atgui.mybatis_plus.entity;
+package mybatis_plus.entity;
 
 import com.baomidou.mybatisplus.annotation.FieldFill;
 import com.baomidou.mybatisplus.annotation.TableField;

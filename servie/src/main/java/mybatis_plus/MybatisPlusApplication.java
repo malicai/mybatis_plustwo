@@ -1,4 +1,4 @@
-package com.atgui.mybatis_plus;
+package mybatis_plus;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;

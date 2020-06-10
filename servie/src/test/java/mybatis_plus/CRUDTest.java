@@ -1,8 +1,8 @@
-package com.atgui.mybatis_plus;
+package mybatis_plus;
 
-import com.atgui.mybatis_plus.entity.User;
-import com.atgui.mybatis_plus.mapper.UserMapper;
 import lombok.extern.slf4j.Slf4j;
+import mybatis_plus.entity.User;
+import mybatis_plus.mapper.UserMapper;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

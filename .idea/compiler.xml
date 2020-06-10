@@ -8,13 +8,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="common" />
+      </profile>
+      <profile name="Annotation profile for mybatis_plus" enabled="true">
+        <sourceOutputDir name="../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
         <module name="servie" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="common" target="1.8" />
       <module name="mybatis_plus" target="1.8" />
-      <module name="servie" target="1.8" />
+      <module name="servie" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

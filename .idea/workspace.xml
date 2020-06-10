@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="575082ed-3553-42e1-82c9-bbb327a80862" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/servie/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servie/servie.iml" afterDir="false" />
+    <list default="true" id="575082ed-3553-42e1-82c9-bbb327a80862" name="Default Changelist" comment="DEC">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servie/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/servie/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servie/servie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/servie/servie.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atgui/mybatis_plus/MybatisPlusApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/servie/src/main/java/mybatis_plus/MybatisPlusApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atgui/mybatis_plus/config/MYBatisPlusConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/servie/src/main/java/mybatis_plus/config/MYBatisPlusConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atgui/mybatis_plus/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/servie/src/main/java/mybatis_plus/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atgui/mybatis_plus/handler/MyMetaObjectHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/servie/src/main/java/mybatis_plus/handler/MyMetaObjectHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atgui/mybatis_plus/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/servie/src/main/java/mybatis_plus/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/servie/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db.migration/guli_edu.sql" beforeDir="false" afterPath="$PROJECT_DIR$/servie/src/main/resources/db.migration/guli_edu.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db.migration/guli_order.sql" beforeDir="false" afterPath="$PROJECT_DIR$/servie/src/main/resources/db.migration/guli_order.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db.migration/guli_statistics.sql" beforeDir="false" afterPath="$PROJECT_DIR$/servie/src/main/resources/db.migration/guli_statistics.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db.migration/guli_ucenter.sql" beforeDir="false" afterPath="$PROJECT_DIR$/servie/src/main/resources/db.migration/guli_ucenter.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/atgui/mybatis_plus/CRUDTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/servie/src/test/java/mybatis_plus/CRUDTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/atgui/mybatis_plus/MybatisPlusApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/servie/src/test/java/mybatis_plus/MybatisPlusApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/atgui/mybatis_plus/QuerywrapperTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/servie/src/test/java/mybatis_plus/QuerywrapperTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,21 +63,34 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/db.migration" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/servie/src/test/java" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\190805\mybatis_plus\servie\src\test\java" />
+      <recent name="D:\190805\mybatis_plus\servie\src\main\resources" />
+      <recent name="D:\190805\mybatis_plus\servie\src\main\java" />
       <recent name="D:\190805\mybatis_plus\src\main\resources\db.migration" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.MybatisPlusApplication">
+    <configuration name="MybatisPlusApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="servie" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="mybatis_plus.MybatisPlusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MybatisPlusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="mybatis_plus" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atgui.mybatis_plus.MybatisPlusApplication" />
@@ -99,7 +128,7 @@
       <workItem from="1591706481861" duration="421000" />
       <workItem from="1591706928907" duration="4898000" />
       <workItem from="1591711867641" duration="50000" />
-      <workItem from="1591799230417" duration="640000" />
+      <workItem from="1591799230417" duration="1651000" />
     </task>
     <task id="LOCAL-00001" summary="CRUD">
       <created>1591799781456</created>
@@ -108,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591799781457</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DEC">
+      <created>1591799907136</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591799907136</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,41 +152,46 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="CRUD" />
-    <option name="LAST_COMMIT_MESSAGE" value="CRUD" />
+    <MESSAGE value="DEC" />
+    <option name="LAST_COMMIT_MESSAGE" value="DEC" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="63" y="0" key="CommitChangelistDialog2" timestamp="1591799779258">
+    <state x="175" y="0" key="#Project_Structure" timestamp="1591800769274">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="63" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591799779258" />
-    <state x="729" y="120" key="FileChooserDialogImpl" timestamp="1591617947860">
+    <state x="175" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1591800769274" />
+    <state x="63" y="0" key="CommitChangelistDialog2" timestamp="1591800994681">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="729" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591617947860" />
-    <state x="662" y="60" width="311" height="345" key="Github.ShareDialog" timestamp="1591799597075">
+    <state x="63" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591800994681" />
+    <state x="582" y="40" key="FileChooserDialogImpl" timestamp="1591800059216">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="662" y="60" width="311" height="345" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1591799597075" />
+    <state x="582" y="40" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591800059216" />
+    <state x="662" y="60" width="311" height="345" key="Github.ShareDialog" timestamp="1591800096328">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="662" y="60" width="311" height="345" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1591800096328" />
     <state x="201" y="0" key="Maven.ArtifactSearchDialog" timestamp="1591623857328">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="201" y="0" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1591623857328" />
-    <state x="11" y="0" key="SettingsEditor" timestamp="1591706898758">
+    <state x="11" y="0" key="SettingsEditor" timestamp="1591800885170">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="11" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591706898758" />
-    <state x="278" y="20" key="Vcs.Push.Dialog.v2" timestamp="1591799844202">
+    <state x="11" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591800885170" />
+    <state x="111" y="20" key="Vcs.Push.Dialog.v2" timestamp="1591800152015">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="278" y="20" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1591799844202" />
+    <state x="111" y="20" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1591800152015" />
     <state x="375" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1591799231489">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="375" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591799231489" />
-    <state x="454" y="120" key="git4idea.merge.GitPullDialog" timestamp="1591799820348">
+    <state x="454" y="120" key="git4idea.merge.GitPullDialog" timestamp="1591801093262">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="454" y="120" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1591799820348" />
+    <state x="454" y="120" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1591801093262" />
     <state x="107" y="33" key="new project wizard" timestamp="1591621473665">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
