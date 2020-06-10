@@ -16,10 +16,10 @@
         <module name="servie" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="common" target="1.8" />
-      <module name="mybatis_plus" target="1.8" />
-      <module name="servie" target="1.5" />
+    <bytecodeTargetLevel target="8">
+      <module name="common" target="8" />
+      <module name="mybatis_plus" target="8" />
+      <module name="servie" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
