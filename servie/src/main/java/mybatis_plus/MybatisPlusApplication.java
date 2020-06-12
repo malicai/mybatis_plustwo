@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 
 @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class})
 //扫描持久层
-//@MapperScan("com.mybatis_plus.mapper")
+@MapperScan("com.mybatis_plus.mapper")
 public class MybatisPlusApplication {
 
     public static void main(String[] args) {
